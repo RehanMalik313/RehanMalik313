@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rehan Malik</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<img align="cneter" alt="coding" width="400" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+<img align="center" alt="coding" width="400" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehanmalik313" alt="rehanmalik313" /></a> </p>
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehanmalik313&show_icons=true&locale=en&layout=compact" alt="rehanmalik313" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehanmalik313&show_icons=true&locale=en" alt="rehanmalik313" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rehanmalik313&show_icons=true&locale=en" alt="rehanmalik313" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehanmalik313&" alt="rehanmalik313" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rehanmalik313&" alt="rehanmalik313" /></p>
